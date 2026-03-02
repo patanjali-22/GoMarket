@@ -1,9 +1,5 @@
 # GoMarket: gRPC Microservices with GraphQL API
 
-![go-grpc-grapqhl-microservices](./assets/thumbnail.jpg)
-
-**Created by: Patanjali (@patanjali-22)**
-
 This project demonstrates a robust microservices architecture using **gRPC** for high-performance inter-service communication and **GraphQL** as the unified API gateway. It includes dedicated services for account management, product catalog, and order processing.
 
 ## Architecture Diagram
